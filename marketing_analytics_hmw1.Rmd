@@ -351,7 +351,9 @@ Late Majority =  0.34 * 250.000 = 85.000
 Laggards = 0.16 * 250.000 = 40.000
 
 
+# **Conclusion**
 
+The data for the look-alike product is the same as the innovation but using different approaches. The data is for the US only. After doing experiments, the best one is using the data starting from 2015 to avoid having p big and q almost 0. The estimations are for 3 different p q and m estimations. As the plots show, NLS starting from 2015 shows the best predictions for the data we have. 
 
 
 
