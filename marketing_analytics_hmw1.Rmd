@@ -34,7 +34,7 @@ This is the data from Harper Collins. It shows different statistics but the focu
 
 ```{r}
 library(knitr)
-knitr::include_graphics("/Users/ellengaloyan/Desktop/harpercollins.pdf")
+knitr::include_graphics("harpercollins.pdf")
 ```
 
 Upload all the necessary libraries.
@@ -323,7 +323,7 @@ In the above estimations, M gave different values which are not very far from ea
 
 ```{r}
 library(knitr)
-knitr::include_graphics("/Users/ellengaloyan/Desktop/listener_info.pdf")
+knitr::include_graphics("listener_info.pdf")
 ```
 
 This data suggests that in 2021 23% of the adults population used audiobooks in the US. The population in 2021 was 338,289,857, and with calculations we get that approximately 77 million people used audiobooks.
@@ -337,7 +337,7 @@ Now, based on the Diffusion of Innovation, here are the calculations:
 
 ```{r}
 library(knitr)
-knitr::include_graphics("/Users/ellengaloyan/Desktop/diffusion.pdf")
+knitr::include_graphics("diffusion.pdf")
 ```
 
 Innovators = 0.025 * 250.000 = 6250
